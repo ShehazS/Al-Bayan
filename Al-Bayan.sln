@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Bayan", "Al-Bayan.csproj", "{E250B23F-83FF-4179-84FF-46C7BD54068C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E250B23F-83FF-4179-84FF-46C7BD54068C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E250B23F-83FF-4179-84FF-46C7BD54068C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E250B23F-83FF-4179-84FF-46C7BD54068C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E250B23F-83FF-4179-84FF-46C7BD54068C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A201BC3-1430-42DA-B616-502DCA4D063D}
+	EndGlobalSection
+EndGlobal
